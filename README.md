@@ -1,1 +1,3 @@
 # MiM-SMS-WHMCS-Module
+
+Upload this file to yourdomain.com/whmcs/modules/addons/...
